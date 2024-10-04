@@ -1,0 +1,9 @@
+# ninja log v5
+0	387	1691482619856413170	CMakeFiles/Nth_fibonacci_number.dir/main.cpp.o	441b826f7d841502
+388	425	1691482619897216875	Nth_fibonacci_number	3a5aa0cdf7737c26
+2	268	1691482708880121796	CMakeFiles/Nth_fibonacci_number.dir/main.cpp.o	441b826f7d841502
+269	300	1691482708914816265	Nth_fibonacci_number	3a5aa0cdf7737c26
+2	265	1691482810264830923	CMakeFiles/Nth_fibonacci_number.dir/main.cpp.o	441b826f7d841502
+265	295	1691482810296340051	Nth_fibonacci_number	3a5aa0cdf7737c26
+3	264	1691482835039545411	CMakeFiles/Nth_fibonacci_number.dir/main.cpp.o	441b826f7d841502
+264	294	1691482835071777809	Nth_fibonacci_number	3a5aa0cdf7737c26

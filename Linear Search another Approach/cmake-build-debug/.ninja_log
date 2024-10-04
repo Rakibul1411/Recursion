@@ -1,0 +1,11 @@
+# ninja log v5
+0	363	1691516798393858715	CMakeFiles/Linear_Search_another_Approach.dir/main.cpp.o	c9667df76eb9d60d
+365	398	1691516798432072121	Linear_Search_another_Approach	510d167cc5e76487
+2	278	1691516885234758152	CMakeFiles/Linear_Search_another_Approach.dir/main.cpp.o	c9667df76eb9d60d
+278	312	1691516885271510768	Linear_Search_another_Approach	510d167cc5e76487
+2	256	1691516931787242962	CMakeFiles/Linear_Search_another_Approach.dir/main.cpp.o	c9667df76eb9d60d
+256	284	1691516931817718853	Linear_Search_another_Approach	510d167cc5e76487
+3	403	1691517207362786164	CMakeFiles/Linear_Search_another_Approach.dir/main.cpp.o	c9667df76eb9d60d
+403	438	1691517207400302363	Linear_Search_another_Approach	510d167cc5e76487
+2	248	1691517345644822288	CMakeFiles/Linear_Search_another_Approach.dir/main.cpp.o	c9667df76eb9d60d
+249	277	1691517345675881840	Linear_Search_another_Approach	510d167cc5e76487

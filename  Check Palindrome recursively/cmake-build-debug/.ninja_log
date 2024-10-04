@@ -1,0 +1,7 @@
+# ninja log v5
+0	279	1691642322299858093	CMakeFiles/_Check_Palindrome_recursively.dir/main.cpp.o	a2b38b2dfba32c41
+280	319	1691642322341136363	_Check_Palindrome_recursively	66f3ce1646ef93a1
+2	270	1691642407301799237	CMakeFiles/_Check_Palindrome_recursively.dir/main.cpp.o	a2b38b2dfba32c41
+271	299	1691642407333161746	_Check_Palindrome_recursively	66f3ce1646ef93a1
+2	265	1691642431214564052	CMakeFiles/_Check_Palindrome_recursively.dir/main.cpp.o	a2b38b2dfba32c41
+266	295	1691642431246522909	_Check_Palindrome_recursively	66f3ce1646ef93a1

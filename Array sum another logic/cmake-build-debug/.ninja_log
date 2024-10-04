@@ -1,0 +1,9 @@
+# ninja log v5
+0	224	1691511018432353127	CMakeFiles/Array_sum_another_logic.dir/main.cpp.o	ff065efb04d49581
+226	262	1691511018471935322	Array_sum_another_logic	f6bf5f9de30f3d63
+2	249	1691511080109983185	CMakeFiles/Array_sum_another_logic.dir/main.cpp.o	ff065efb04d49581
+249	277	1691511080139749841	Array_sum_another_logic	f6bf5f9de30f3d63
+2	252	1691511221127424112	CMakeFiles/Array_sum_another_logic.dir/main.cpp.o	ff065efb04d49581
+253	282	1691511221158488096	Array_sum_another_logic	f6bf5f9de30f3d63
+3	451	1691511638903776702	CMakeFiles/Array_sum_another_logic.dir/main.cpp.o	ff065efb04d49581
+453	520	1691511638975494229	Array_sum_another_logic	f6bf5f9de30f3d63
